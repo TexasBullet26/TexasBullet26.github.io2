@@ -17,6 +17,7 @@ description: > # this means to ignore newlines until "baseurl:"
 # url: "http://www.treylanzer.com" # the base hostname & protocol for your site
 twitter_username: TexasBullet26
 github_username:  TexasBullet26
+facebook_username: trey.lanzer
 
 # Minima date format
 minima:
