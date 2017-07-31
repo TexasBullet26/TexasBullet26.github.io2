@@ -1,5 +1,5 @@
 /**
- * Reset some basic elements
+ * RESET SOME BASIC ELEMENTS
  */
 body, h1, h2, h3, h4, h5, h6,
 p, blockquote, pre, hr,
@@ -11,7 +11,7 @@ dl, dd, ol, ul, figure {
 
 
 /**
- * Basic styling
+ * BASIC STYLING
  */
 body {
   font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
@@ -28,7 +28,7 @@ body {
 
 
 /**
- * Set `margin-bottom` to maintain vertical rhythm
+ * SET `margin-bottom` TO MAINTAIN VERTICAL RHTHYM
  */
 h1, h2, h3, h4, h5, h6,
 p, blockquote, pre,
@@ -40,7 +40,7 @@ ul, ol, dl, figure,
 
 
 /**
- * Images
+ * IMAGES
  */
 img {
   max-width: 100%;
@@ -50,7 +50,7 @@ img {
 
 
 /**
- * Figures
+ * FIGURES
  */
 figure > img {
   display: block;
@@ -63,7 +63,7 @@ figcaption {
 
 
 /**
- * Lists
+ * LISTS
  */
 ul, ol {
   margin-left: $spacing-unit;
@@ -79,7 +79,7 @@ li {
 
 
 /**
- * Headings
+ * HEADINGS
  */
 h1, h2, h3, h4, h5, h6 {
   font-weight: $base-font-weight;
@@ -88,22 +88,23 @@ h1, h2, h3, h4, h5, h6 {
 
 
 /**
- * Links
+ * LINKS
  */
 a {
-  color: $brand-color;
+  color: $link-color;
   text-decoration: none;
 
   &:visited {
-    color: darken($brand-color, 15%);
+    color: grey-color;
   }
 
   &:hover {
-    color: $text-color;
+    color: $hover-color;
     text-decoration: underline;
   }
 
   .social-media-list &:hover {
+    color: darken($hover-color, 15%);
     text-decoration: none;
 
     .username {
@@ -114,7 +115,7 @@ a {
 
 
 /**
- * Blockquotes
+ * BLOCKQUOTE
  */
 blockquote {
   color: $grey-color;
@@ -132,7 +133,7 @@ blockquote {
 
 
 /**
- * Code formatting
+ * CODE FORMATING
  */
 pre,
 code {
@@ -160,7 +161,7 @@ pre {
 
 
 /**
- * Wrapper
+ * WRAPPER
  */
 .wrapper {
   max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
@@ -182,7 +183,7 @@ pre {
 
 
 /**
- * Clearfix
+ * CLEARFIX
  */
 %clearfix:after {
   content: "";
@@ -193,7 +194,7 @@ pre {
 
 
 /**
- * Icons
+ * ICONS
  */
 .icon > svg {
   display: inline-block;
