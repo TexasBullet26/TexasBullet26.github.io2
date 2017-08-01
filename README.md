@@ -1,5 +1,5 @@
 # My Personal Website
-## [www.treylanzer.com](http://www.treylanzer.com) :beginner:
+## [www.treylanzer.com](http://www.treylanzer.com/home/)
 #### Created using [Jekyll](https://jekyllrb.com/) and Amazon Route 53
 
 ## Personal Social Media Links
