@@ -1,4 +1,4 @@
 ---
 layout: home
-permalink: www.treylanzer.com
+permalink: /home/
 ---
