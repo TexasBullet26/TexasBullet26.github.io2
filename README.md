@@ -1,6 +1,6 @@
-# My Personal Website 
+# My Personal Website
 ## [www.treylanzer.com](http://www.treylanzer.com) :beginner:
-#### Created using [Jekyll](https://jekyllrb.com/) and Amazon Rouute 53
+#### Created using [Jekyll](https://jekyllrb.com/) and Amazon Route 53
 
 ## Personal Social Media Links
 ##### [Github](https://github.com/TexasBullet26)
