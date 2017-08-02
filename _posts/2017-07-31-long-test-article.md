@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Some articles are just so long..."
+title: "Some Articles Are Just So Long..."
 categories: misc
 ---
 
