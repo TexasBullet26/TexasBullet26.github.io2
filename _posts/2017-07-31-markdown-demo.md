@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Demo Post for Content Styles"
-categories: demo
+categories: posts # demo
 author: "Trey Lanzer"
 meta: "Denton"
 ---

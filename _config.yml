@@ -15,10 +15,10 @@ description: > # this means to ignore newlines until "baseurl:"
 
 google_analytics: UA-99924733-2
 
-permalink: /:title
+permalink: /:title/
 # absoulute_url: http://www.treylanzer.com
-# baseurl: "/_posts" # the subpath of your site, e.g. /blog
-# url: "http://www.treylanzer.com" # the base hostname & protocol for your site
+baseurl: "" # "/_posts" # the subpath of your site, e.g. /blog
+url: "http://www.treylanzer.com" # the base hostname & protocol for your site
 twitter_username: TexasBullet26
 github_username:  TexasBullet26
 
@@ -34,9 +34,41 @@ minima:
 #  - /posts.md
 #  - /contact.md
 
+gems:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-avatar
+  - jekyll-github-metadata
+
 # Build settings
 markdown: kramdown
 theme: minima
 exclude:
   - Gemfile
   - Gemfile.lock
+  - README.md
+
+# Github metadata settings
+repository: TexasBullet26/TexasBullet26.github.io
+# End
+
+# jekyll-seo-tag settings
+social:
+  name: TexasBullet26
+  links:
+    - https://twitter.com/TexasBullet26
+    - https://github.com/TexasBullet26
+
+twitter:
+  username: TexasBullet26
+# End
+
+# Site menu settings
+menu:
+  - title: "About"
+    url: "/about"
+  - title: "My Blog"
+    url: "/posts"
+  - title: "Contact Me"
+    url: "/contact"

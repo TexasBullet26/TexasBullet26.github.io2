@@ -2,7 +2,7 @@
 layout: post
 title: "First Jekyll Post!!"
 date: 2017-07-29 04:23:57 +0000
-categories: first post
+categories: posts # first post
 ---
 ### My First Official Jekyll Blog Post
 Hello World! This is my first time using Jekyll to generate static webpages. We will see how this goes!!

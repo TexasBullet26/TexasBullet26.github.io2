@@ -41,7 +41,7 @@ Don't be afraid to suggest content that you, the reader, would like to add. I ha
 ### My Work Experiences
 
 - Six years wiring and programming Programmable Logic Controllers (PLCs) that executed various autonomous tasks such as measuring oil/natural gas levels and pressure
-- One year experience as an equipment operator for [WITRON Logistik + Informatik GmbH](http://www.witron.de/en/) 
+- One year experience as an equipment operator for [WITRON Logistik + Informatik GmbH](http://www.witron.de/en/)
 
 ### Random Facts About Myself
 
