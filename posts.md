@@ -3,8 +3,6 @@ layout: page
 title: My Blog
 permalink: /posts/
 path: ./_posts/
-# permalink: /posts/
-# path: ./_posts/
 ---
 
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
