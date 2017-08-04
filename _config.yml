@@ -35,7 +35,7 @@ minima:
 #  - /contact.md
 
 gems:
-  - jekyll-feed
+  # - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-avatar
