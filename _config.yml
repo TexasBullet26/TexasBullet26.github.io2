@@ -15,6 +15,8 @@ description: > # this means to ignore newlines until "baseurl:"
 
 google_analytics: UA-99924733-2
 
+permalink: /:title
+# absoulute_url: http://www.treylanzer.com
 # baseurl: "/_posts" # the subpath of your site, e.g. /blog
 # url: "http://www.treylanzer.com" # the base hostname & protocol for your site
 twitter_username: TexasBullet26
@@ -28,7 +30,8 @@ minima:
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
 #header_pages:
-# - about.html
+#  - about.md
+#  - post.md
 
 # Build settings
 markdown: kramdown
