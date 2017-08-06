@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "First Jekyll Post!!"
-date: 2017-07-29 04:23:57 +0000
+#date: 2017-07-29 04:23:57 +0000
 categories: posts # first post
 ---
 ### My First Official Jekyll Blog Post

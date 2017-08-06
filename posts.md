@@ -1,6 +1,6 @@
 ---
-layout: page
+#layout: post
 title: My Blog
 permalink: /posts/
-path: /_posts/
+#path: /_layouts/post.html
 ---
