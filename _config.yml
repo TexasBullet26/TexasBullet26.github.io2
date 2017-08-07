@@ -64,20 +64,20 @@ twitter:
   username: TexasBullet26
 # End
 
-defaults:
-  -
-    scope:
-      path: "_layouts/post"
-      type: "pages" # previously `page` in Jekyll 2.2.
-    values:
-      layout: "page" # overrides previous default layout
-      author: "Trey Lanzer"
+#defaults:
+#  -
+#    scope:
+#      path: "_layouts/post"
+#      type: "pages" # previously `page` in Jekyll 2.2.
+#    values:
+#      layout: "page" # overrides previous default layout
+#      author: "Trey Lanzer"
 
 # Site menu settings
 menu:
   - title: "About"
     url: "/about"
-  - title: "My Blog"
-    url: "/blog"
+#  - title: "My Blog"
+#    url: "/blog"
   - title: "Contact Me"
     url: "/contact"
