@@ -2,11 +2,8 @@
 title: My Blog
 permalink: /blog/
 ---
-# My Blog
 
 <div class="home">
-
-  {{ content }}
 
   <ul class="post-list">
     {% for post in site.posts %}
