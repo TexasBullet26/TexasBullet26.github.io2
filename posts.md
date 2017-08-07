@@ -1,6 +1,6 @@
 ---
-#layout: post
+layout: page
 title: My Blog
-permalink: /posts/
+permalink: /blog/
 #path: /_layouts/post.html
 ---
