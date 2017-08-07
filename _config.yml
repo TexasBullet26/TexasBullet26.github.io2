@@ -68,7 +68,7 @@ defaults:
   -
     scope:
       path: "_layouts/post"
-      type: "page" # previously `page` in Jekyll 2.2.
+      type: "pages" # previously `page` in Jekyll 2.2.
     values:
       layout: "page" # overrides previous default layout
       author: "Trey Lanzer"
