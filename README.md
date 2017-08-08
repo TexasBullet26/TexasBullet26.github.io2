@@ -3,7 +3,7 @@
 ---
 
 # My Personal Website
-## [www.treylanzer.com](http://www.treylanzer.com/home/)
+## [www.treylanzer.com](http://www.treylanzer.com)
 #### Created using [Jekyll](https://jekyllrb.com/) and Amazon Route 53
 
 ## Personal Social Media Links
